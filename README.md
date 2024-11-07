@@ -23,4 +23,15 @@
 
 ## Usage 
 
+## ***Unable to publish this site for now due to ongoing development in webR, instead you can use this***
+
+
+
+## install package in R set up 
+
+
+devtools::install_github("https://github.com/econstar/PP4MH")
+
+launch_app() will open app 
+
 
