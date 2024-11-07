@@ -19,4 +19,4 @@
 
 
 
-## Deploy using shinylive
+## Deploying using shinylive
